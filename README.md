@@ -31,5 +31,4 @@ I've learning programming in the university and for my self, and find that i lik
 
 <p align="left"> <a href="https://www.github.com/lucasclemente08" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/lucasclemente08" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/lucas-clemente-front-end-developer/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 ### Support Me
-
 <a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/lucasclemente8"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
